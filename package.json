@@ -1,0 +1,25 @@
+{
+  "name": "petshops",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.34",
+    "antd": "^5.19.3",
+    "next": "14.2.5",
+    "next-transpile-modules": "^10.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "styled-components": "^6.1.12"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
